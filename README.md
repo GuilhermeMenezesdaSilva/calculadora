@@ -9,10 +9,11 @@
 
 ## Funcionalidades 
 
-- [ ] Soma
-- [ ] Subtração
-- [ ] Multiplicação
-- [ ] Divisão 
-- [ ] Raiz
-- [ ] Quadrado
+- [X] GUI
+- [X] Soma
+- [X] Subtração
+- [X] Multiplicação
+- [X] Divisão 
+- [X] Raiz
+- [X] Quadrado
 - [ ] Log em BD
